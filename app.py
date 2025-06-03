@@ -26,6 +26,9 @@ st.markdown(
         ::placeholder {
             color: gray !important;
         }
+         h1, h2, h3, p, span {
+            color: black !important;
+        }
         div.stButton > button {
         background-color: #205781;
         color: white;
