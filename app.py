@@ -12,7 +12,9 @@ st.markdown("🔐 Test your password strength! Strengthen it with our tips if it
 st.markdown(
     """
     <style>
-        
+        h1, h2, h3, p, span {
+            color: black !important;
+        }
         input[type="text"], 
         input[type="number"], 
         input[type="password"], 
@@ -25,9 +27,6 @@ st.markdown(
         }
         ::placeholder {
             color: gray !important;
-        }
-         h1, h2, h3, p, span {
-            color: black !important;
         }
         div.stButton > button {
         background-color: #205781;
