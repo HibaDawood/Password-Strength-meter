@@ -18,7 +18,7 @@ st.markdown(
         input[type="password"], 
         textarea {
         background-color: #cce0ff !important; 
-        color: black !important;  
+        color: #000000 !important;  
         border: 2px solid #007bff !important; 
         border-radius: 5px !important; 
         padding: 8px !important;
